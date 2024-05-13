@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Hunters' Rumours
+Runelite plugin for Tracking Hunters' Rumours tasks
